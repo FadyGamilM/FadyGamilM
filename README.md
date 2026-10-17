@@ -67,14 +67,14 @@
 
 | Project | Description |
 |---|---|
-| [**raft**](https://github.com/YOUR_GITHUB_USERNAME/raft) | Raft consensus from scratch in Go — leader election, log replication, RequestVote / AppendEntries RPCs |
-| [**goroutines-leak-detector**](https://github.com/YOUR_GITHUB_USERNAME/goroutines-leak-detector) | Go package that snapshots goroutines on an interval and flags ones stuck past a threshold as leaks |
+| [**raft**](https://github.com/FadyGamilM/raft) | Raft consensus from scratch in Go — leader election, log replication, RequestVote / AppendEntries RPCs |
+| [**go-leak-detector**](https://github.com/FadyGamilM/go-leak-detector) | Go package that snapshots goroutines on an interval and flags ones stuck past a threshold as leaks |
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FadyGamilM&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadyGamilM&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
